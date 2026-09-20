@@ -3,6 +3,9 @@ This is a dashboard creation pipeline made for Cell Morphomics Data.
 The goal is to highlight the distributions of morphological feature between
 control, LRRK2, PARKN and SNCA to understand the progression of disease on a single cell level. Moreover, the heterogeneity within a variant can then be studied by looking at Individual Cell lines.
 
+## Summarised Findings
+Please `V2_Rushik.pdf` for summarised findings. 
+
 
 ### Pipeline Steps
     1. Determine and Set features.
